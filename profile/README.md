@@ -1,5 +1,7 @@
 # SomethingOS
 
+![banner](https://raw.githubusercontent.com/SomethingOS/.github/main/illustrations/14.0/SomethingOS_Urania.png)
+
 ## What is SomethingOS ?
 SomethingOS is a fork of [AOSPA](https://github.com/aospa), with extra features and a brand new design
 
