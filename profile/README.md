@@ -15,4 +15,7 @@ Like a asteroid or a minor planet orbiting around AOSPA
 - Google Photos unlimited
 - Pixel exclusive features
 - Play Integrity Settings (with updater)
-- More to come...
+- Some UI features
+  - Hide QS in secure lockscreen
+- Some system features
+  - Soon..  
