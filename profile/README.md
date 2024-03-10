@@ -10,7 +10,7 @@ SomethingOS is a fork of [AOSPA](https://github.com/aospa), with extra features 
 Like a asteroid or a minor planet orbiting around AOSPA 
 
 ## 🎚️ Features / Additions compared to AOSPA
-- Animations in settings (Most of them are made by myself)
+- Animations in settings for a better one hand use
 - A beautiful new boot animation
 - Google Photos unlimited
 - Pixel exclusive features
