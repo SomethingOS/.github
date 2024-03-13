@@ -15,6 +15,7 @@ Like a asteroid or a minor planet orbiting around AOSPA
 - Google Photos unlimited
 - Pixel exclusive features
 - Play Integrity Settings (with updater)
+- Lawnchair & Lawnchair Quickstep
 - Some UI features
   - Hide QS in secure lockscreen
 - Some system features
