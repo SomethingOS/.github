@@ -1,6 +1,6 @@
 # SomethingOS
 
-![banner](https://raw.githubusercontent.com/SomethingOS/.github/main/illustrations/14.0/SomethingOS_Urania.png)
+![banner](https://raw.githubusercontent.com/SomethingOS/.github/main/illustrations/14.0/SomethingOS.png)
 
 ## 🚀 First Goal
 🏳️ Android 14.0 Urania: Urania is a large main-belt asteroid that was discovered by English astronomer John Russell Hind on July 22, 1854. [Wikipedia](https://en.wikipedia.org/wiki/30_Urania)
