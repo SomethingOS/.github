@@ -16,7 +16,8 @@ Like a asteroid or a minor planet orbiting around AOSPA
 - Pixel exclusive features
 - Play Integrity Settings (with updater)
 - Lawnchair & Lawnchair Quickstep
+- Advanced Reboot options
 - Some UI features
   - Hide QS in secure lockscreen
 - Some system features
-  - Soon..  
+  - Block Ads
