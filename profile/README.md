@@ -19,5 +19,8 @@ Like a asteroid or a minor planet orbiting around AOSPA
 - Advanced Reboot options
 - Some UI features
   - Hide QS in secure lockscreen
+  - Ignore Window flag secure
 - Some system features
   - Block Ads
+ 
+More to come..
