@@ -6,7 +6,7 @@
 🏳️ Android 14.0 Urania: Urania is a large main-belt asteroid that was discovered by English astronomer John Russell Hind on July 22, 1854. [Wikipedia](https://en.wikipedia.org/wiki/30_Urania)
 
 ## 🪐 What is SomethingOS ?
-SomethingOS is a fork of [AOSPA](https://github.com/aospa), with extra features and a brand new design
+SomethingOS is a fork of [AOSPA](https://github.com/aospa), with extra features and a brand new design \
 Like a asteroid or a minor planet orbiting around AOSPA 
 
 ## 🎚️ Features / Additions compared to AOSPA
