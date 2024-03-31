@@ -24,3 +24,5 @@ Like a asteroid or a minor planet orbiting around AOSPA
   - Block Ads
  
 More to come..
+
+You can [donate](https://www.somethingos.com/paypal) to support my work !
