@@ -7,7 +7,8 @@
 
 ## 🪐 What is SomethingOS ?
 SomethingOS is a fork of [AOSPA](https://github.com/aospa), with extra features and a brand new design \
-Like a asteroid or a minor planet orbiting around AOSPA 
+Like a asteroid or a minor planet orbiting around AOSPA \
+SomethingOS do not pretend to be better than any other custom ROM, take the ROM that fits you the best and if you decide to install SomethingOS, thank you !
 
 ## 🎚️ Features / Additions compared to AOSPA
 - Animations in settings for a better one hand use
