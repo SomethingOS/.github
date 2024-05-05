@@ -18,11 +18,7 @@ SomethingOS do not pretend to be better than any other custom ROM, take the ROM 
 - Play Integrity Settings (with updater)
 - Lawnchair & Lawnchair Quickstep
 - Advanced Reboot options
-- Some UI features
-  - Hide QS in secure lockscreen
-  - Ignore Window flag secure
-- Some system features
-  - Block Ads
+- System and UI features
  
 More to come..
 
