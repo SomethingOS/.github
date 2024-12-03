@@ -7,7 +7,7 @@
 ![SourceForge Downloads](https://img.shields.io/sourceforge/dt/somethingos)
 
 ## 🚀 First Goal
-🏳️ Android 14.0 Urania: Urania is a large main-belt asteroid that was discovered by English astronomer John Russell Hind on July 22, 1854. [Wikipedia](https://en.wikipedia.org/wiki/30_Urania)
+🏳️ Android 14.0 Urania: Urania is a large main-belt asteroid that was discovered by English astronomer John Russell Hind on July 22, 1854. [Wikipedia](https://en.wikipedia.org/wiki/30_Urania)\
 🏳️ Android 15.0 Venus: Venus, the second planet from the Sun, is named after the Roman goddess of love and beauty. Known as Earth's "sister planet". [Wikipedia](https://en.wikipedia.org/wiki/Venus)
 
 ## 🪐 What is SomethingOS ?
