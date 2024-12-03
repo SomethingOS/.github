@@ -1,6 +1,6 @@
 # SomethingOS
 
-![banner](https://raw.githubusercontent.com/SomethingOS/.github/main/illustrations/14.0/SomethingOS.png)
+![banner](https://raw.githubusercontent.com/SomethingOS/.github/main/illustrations/15.0/christmas.png)
 
 
 ## SomethingOS downloads stats
