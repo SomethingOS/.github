@@ -1,4 +1,7 @@
-# SomethingOS
+# SomethingOS (Archived)
+
+> ⚠️ **This project has been archived and rebranded as ArfoxOS**  
+> Please visit [github.com/arfoxos](https://github.com/arfoxos) for the new project.
 
 ![banner](https://raw.githubusercontent.com/SomethingOS/.github/main/illustrations/15.0/default.png)
 
